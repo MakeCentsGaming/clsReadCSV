@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.IO;
 
-namespace Replace_Tag_Inner_Text
+namespace WorkingWithCSVs
 {
    /// <summary>
    /// class to store a list of clsCSVLine objects and other csv data
