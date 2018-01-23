@@ -1,10 +1,6 @@
 ﻿using Microsoft.VisualBasic.FileIO;
-using System;
 using System.Collections.Generic;
 using System.IO;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Replace_Tag_Inner_Text
 {
